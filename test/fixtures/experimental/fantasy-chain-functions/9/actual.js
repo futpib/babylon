@@ -1,0 +1,1 @@
+function foo(promise) { from promise; }

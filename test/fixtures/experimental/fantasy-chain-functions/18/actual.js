@@ -1,0 +1,1 @@
+f(chain function(promise) { from promise })

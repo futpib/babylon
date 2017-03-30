@@ -1,0 +1,1 @@
+class Foo { chain bar(promise) { from promise } }

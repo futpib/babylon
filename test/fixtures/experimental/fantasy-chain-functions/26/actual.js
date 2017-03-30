@@ -1,0 +1,1 @@
+f(a, chain(x, y) => from [x, y], b)

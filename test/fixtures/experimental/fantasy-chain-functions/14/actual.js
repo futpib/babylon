@@ -1,0 +1,1 @@
+var foo = chain function(promise) { from promise; }

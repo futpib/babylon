@@ -1,0 +1,1 @@
+(function(x) { chain function inner() { from x } })

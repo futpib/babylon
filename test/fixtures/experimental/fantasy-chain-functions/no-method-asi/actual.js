@@ -1,0 +1,4 @@
+class A {
+  chain
+  a(){}
+}

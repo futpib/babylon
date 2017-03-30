@@ -1,0 +1,2 @@
+chain
+function foo() {}
